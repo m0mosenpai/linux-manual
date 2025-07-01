@@ -1,13 +1,13 @@
 My experience of trying out difference Linux distributions over the years has made
 me want to document everything I have done to make a new installation as usable as
-possible for myself. This was the first time that I tried a hands-on/ minimal
+possible. This was the first time that I tried a hands-on/ minimal
 distribution like Arch and committed to using it as a daily-driver for my work.
 
 This here is a collection of every issue that I found interesting and worth
-talking about. This is not meant to replace the official
+talking about. This is not meant to (nor can it ever) replace the official
 [Arch Wiki](https://wiki.archlinux.org/title/Main_page) in any way.
 I just sometimes found myself scouring the Internet to find answers to some of the
-more weirder issues and this is an attempt of gathering all that information in one place.
+more weirder issues and this is an attempt to gather all that information in one place.
 
 ## Setup
 - **Device:** Dell XPS-15 9570
